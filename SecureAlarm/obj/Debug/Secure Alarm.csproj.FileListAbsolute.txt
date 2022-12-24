@@ -1,0 +1,37 @@
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\KosDB.db
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\KosmoSecure.exe.config
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\KosmoSecure.exe
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\KosmoSecure.pdb
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\EntityFramework.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\Guna.UI.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\Guna.UI2.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\System.Data.SQLite.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\UIDC.dll
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\EntityFramework.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.pdb
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\bin\Debug\System.Data.SQLite.xml
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\Secure Alarm.csproj.AssemblyReference.cache
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\Secure Alarm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.frmMain.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.Properties.Resources.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.UC_Alarm.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.UC_Log.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.UC_Main.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.UC_Settings.resources
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\Secure Alarm.csproj.GenerateResource.cache
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\Secure Alarm.csproj.CoreCompileInputs.cache
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\Secure Alarm.csproj.CopyComplete
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.exe
+C:\Users\Yangel\Downloads\KosmoSecure\KosmoSecure\obj\Debug\KosmoSecure.pdb
